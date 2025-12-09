@@ -25,7 +25,7 @@ El sistema está construido siguiendo un **Marco de Trabajo Ingenieril**, dividi
 
 ## 🛠️ Tecnologías
 
-*   **Motor:** Unity 2022 LTS.
+*   **Motor:** Unity 6000.3 LTS.
 *   **Lenguaje:** C#.
 *   **Herramientas:** 2D Tilemap Extras, ScriptableObjects para configuración.
 
@@ -33,17 +33,17 @@ El sistema está construido siguiendo un **Marco de Trabajo Ingenieril**, dividi
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone https://github.com/TU_USUARIO/TU_REPO.git
+    git clone https://github.com/YuuNakata/PCG_Isometric_Shooter_3D.git
     ```
 2.  **Abrir en Unity:**
     *   Abre Unity Hub.
     *   Selecciona "Add" y busca la carpeta del proyecto.
-    *   Abre con Unity 2022.3 o superior.
+    *   Abre con Unity 6000.3 o superior.
 3.  **Ejecutar:**
     *   Ve a la carpeta `Assets/Scenes`.
-    *   Abre la escena `DemoGenerator`.
+    *   Abre la escena `Main`.
     *   Dale a **Play**.
-    *   Usa el botón "Regenerate" en la UI para ver diferentes semillas.
+    *   Usa el botón "Redraw" en la UI para ver diferentes semillas.
 
 ## 📐 Arquitectura
 
@@ -55,5 +55,5 @@ El proyecto sigue una arquitectura modular basada en componentes y ScriptableObj
 Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
 
 ---
-Desarrollado como parte del Proyecto de Investigación y Desarrollo - Facultad de Tecnologías Interactivas, UCI.
+Desarrollado como parte del Proyecto de Investigación y Desarrollo V - Facultad de Tecnologías Interactivas, UCI.
  
