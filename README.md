@@ -2,7 +2,7 @@
 
 > Motor de Generación Procedural de Niveles y Diseño para un Shoot 'em Up Isométrico.
 
-![Unity](https://img.shields.io/badge/Unity-2022.3%2B-black?style=flat&logo=unity)
+![Unity](https://img.shields.io/badge/Unity-6000.3%2B-black?style=flat&logo=unity)
 ![Language](https://img.shields.io/badge/Language-C%23-blue?style=flat&logo=csharp)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
